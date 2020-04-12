@@ -96,4 +96,5 @@ fabric.properties
 hs_err_pid*
 
 tucana.iml
+*/*.iml
 */target
