@@ -1,4 +1,4 @@
-package com.aries.tucana;
+package com.aries.tucana.uuid;
 
 import org.junit.Test;
 
