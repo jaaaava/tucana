@@ -1,4 +1,4 @@
-package com.aries.tucana;
+package com.aries.tucana.demo;
 
 /**
  * Hello world!
@@ -6,6 +6,5 @@ package com.aries.tucana;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println(new SimpleId(5));
     }
 }
